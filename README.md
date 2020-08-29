@@ -1,4 +1,5 @@
 # Valiant game勇者游戏
+![](https://s04.flagcounter.com/count2/YvSi/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_8/viewers_0/labels_0/pageviews_1/flags_0/percent_0)
 ## 简介
 这是一个基于[GNU General Public License version](https://opensource.org/licenses/gpl-3.0.html)的游戏开源项目
 
